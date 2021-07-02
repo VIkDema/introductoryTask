@@ -1,7 +1,7 @@
 import java.io.File
 
 class binaryTree {
-    private val treeArr: dynamicArray<Char> = dynamicArray(2)
+    private val treeArr: dynamicArray<Char> = dynamicArray()
     private var countTree: Int = 0
     private val mem: Int = 0
     private var rootTree: Int = 0
