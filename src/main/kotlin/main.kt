@@ -1,3 +1,7 @@
+val scan = java.util.Scanner(System.`in`)
+
 fun main(args: Array<String>) {
-    println("Hello World!")
+    val test = binaryTree()
+    test.enter()
+    test.writeResult()
 }
